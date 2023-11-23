@@ -97,8 +97,7 @@
  ┣ 📜.gitignore
  ┣ 📜Dockerfile
  ┣ 📜package-lock.json
- ┣ 📜package.json
- ┗ 📜README.md
+ ┗ 📜package.json
 ```
 
 <br/>
@@ -126,15 +125,11 @@
  ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📜ScroogeApplication.class
  ┃ ┃ ┣ 📂resources
  ┃ ┃ ┃ ┗ 📂main
- ┃ ┃ ┃ ┃ ┣ 📜application.properties
- ┃ ┃ ┃ ┃ ┗ 📜forward-lead-392307-4a37b2b70cad.json
+ ┃ ┃ ┃ ┃ ┗ 📜application.properties
  ┃ ┃ ┗ 📂test
  ┃ ┣ 📜.gitignore
  ┃ ┣ 📜build.gradle
  ┃ ┣ 📜Dockerfile
- ┃ ┣ 📜gradlew
- ┃ ┣ 📜gradlew.bat
- ┃ ┣ 📜HELP.md
  ┗ ┗ 📜settings.gradle
 ```
 
@@ -162,10 +157,7 @@
  ┣ 📜.gitignore
  ┣ 📜build.gradle
  ┣ 📜gradle.properties
- ┣ 📜gradlew
- ┣ 📜gradlew.bat
  ┣ 📜local.properties
- ┣ 📜scrooge.jks
  ┗ 📜settings.gradle
 ```
 
