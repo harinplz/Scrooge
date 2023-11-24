@@ -36,7 +36,7 @@
 
 ## 아키텍처
 
-![image](https://github.com/harinplz/algorithm_study/assets/62701446/09436f42-d307-44b4-afc7-7adf991ae170)
+![image](./assets/architecture.png)
 
 <br/>
 
