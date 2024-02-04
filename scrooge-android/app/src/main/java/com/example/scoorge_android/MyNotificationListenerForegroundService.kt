@@ -67,7 +67,6 @@ class MyNotificationListenerForegroundService : NotificationListenerService() {
                                     println(response)
                                 }
                                 override fun onFailure(call: Call<ResponseResult>, t: Throwable){
-                                    println("실패")
                                     println(t.message.toString())
                                 }
                             })
